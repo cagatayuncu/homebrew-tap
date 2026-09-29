@@ -1,8 +1,8 @@
 class Gitdoctor < Formula
-  desc "Read-only Git Flow doctor: 47 repo health checks with fix recipes"
+  desc "Read-only Git Flow doctor: 52 repo health checks with fix recipes"
   homepage "https://github.com/cagatayuncu/gitdoctor"
-  url "https://github.com/cagatayuncu/gitdoctor/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "b5a39fefc5ceb7c318e456cba0685c4fbf8b54d67bfea8bef56dc626b0c2658e"
+  url "https://github.com/cagatayuncu/gitdoctor/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "7808ecde2bed5267e2003888805296c9d3d8fc8880b282c1bccef018e917ec97"
   license "MIT"
 
   depends_on "bash"
